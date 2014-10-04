@@ -1,0 +1,11 @@
+GilatChapter5
+Problem 8
+	From the graph, people from both ships should be able to see each other between 
+8:45 and 9:15 AM.
+
+
+Problem 18
+	No, the behavior of Nitrogen does not agree with the ideal gas equation
+
+
+diary off

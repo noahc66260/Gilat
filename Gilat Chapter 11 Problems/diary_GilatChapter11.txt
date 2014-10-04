@@ -1,0 +1,155 @@
+GilatChapter11
+Problem 1
+a.
+	2*x^4 - 9*x^3 - 20*x^2 + 57*x + 90
+ 
+b.
+	(2*x + 3)/((x + 2)*(x - 3)*(x - 5))
+ 
+c.
+	x^3 - 6*x^2 + x + 33
+ 
+d.
+	    19
+
+
+
+
+Problem 2
+a.
+	27 - x^3
+ 
+b.
+	-(x - 3)/(x^2 + 3*x + 9)
+ 
+c.
+	x^2 + 2*x + 12
+ 
+d.
+    36
+
+
+
+
+Problem 3
+	2/(9*u + 12) + 1/3
+ 
+
+
+Problem 4
+a.
+	(x - 1)*(x - 2)*(x + 4)*(x + 3)*(x - 5)
+ 
+b.
+	x^4 - 4*x^3 - 19*x^2 + 46*x + 120
+ 
+
+
+Problem 5
+a.
+	a = 4*cos(x)^3 - 3*cos(x)
+ 
+	Using the simplify command we get a = cos(3*x)
+ 
+b.
+	b = sin(x - y)/2 + sin(x + y)/2
+ 
+	Using the simplify command we get b = cos(y)*sin(x)
+ 
+c.
+	c = cos(x + y + z)
+ 
+	Using the expand command we get c = 
+	cos(x)*cos(y)*cos(z) - cos(y)*sin(x)*sin(z) - cos(z)*sin(x)*sin(y) - cos(x)*sin(y)*sin(z)
+ 
+
+
+Problem 6
+a.
+	x^3 + y^3 = (27*t^3)/(t^3 + 1)^3 + (27*t^6)/(t^3 + 1)^3
+ 
+ = (27*t^3)/(t^3 + 1)^2
+ 
+	3*x*y = (27*t^3)/(t^3 + 1)^2
+ 
+	So we conclude that x^3 + y^3 = 3*x*y
+
+
+Problem 7
+	R = 3.6342 m 
+
+
+Problem 8
+a.
+	v_max = (T_0*b)/a
+ 
+b.
+	v = (-(a*(T - T_0))/(T_0*(T + a)))*v_max
+ 
+
+
+Problem 9
+	The coordinates interesect the the points (4.9884, 0.3411), and 
+	(-1.6037, 4.7358)
+
+
+Problem 10
+a.
+	T = (W*x)/3
+ 
+	F_Ax = W - (W*x)/4
+ 
+	F_Ay = (5*W*x)/12
+ 
+b.
+	T = (200*x)/3
+ 
+	F_Ax = 200 - 50*x
+ 
+	F_Ay = (250*x)/3
+ 
+
+Problem 11
+b.
+	p is at a maximum when u = 0.3090 
+	The maximum value of p is 0.0955 
+
+
+Problem 13
+a.
+	theta = -atan(5/(9*t - 100))
+ 
+ radians
+b.
+	dtheta/dt = 45/(81*t^2 - 1800*t + 10025)
+ 
+ radians per minute
+
+
+Problem 14
+	sin(x)/9 - (4*log(sin(x) + 2/3))/27 - 4/(81*(sin(x) + 2/3))
+ 
+
+
+Problem 15
+	The volume of a cone is given by (pi*H*R^2)/3
+ 
+
+
+Problem 17
+	The value of A is (5*pi)/4
+ 
+ and the value of k is pi/15
+ 
+
+
+Problem 19
+a.
+	 v_rms = (V^2/2)^(1/2)
+ 
+b.
+	 v_rms = (9*pi*V^2 + (3*omega*sin((700*pi)/omega)*V)/140 + (25*pi)/8 + (omega*sin((1400*pi)/omega))/448)^(1/2)/pi^(1/2)
+ 
+
+
+diary off

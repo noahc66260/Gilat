@@ -1,0 +1,226 @@
+GilatChapter8
+Problem 1
+	See graph.
+
+Problem 2
+
+q =
+
+     3     0    -2     0     4
+
+
+r =
+
+     0     0     0     0     0     0     0
+
+Problem 3
+
+q =
+
+     4   -10    30
+
+
+r =
+
+     0     0     0  -105   -57
+
+Problem 4
+	If the mass of the tank is 18 kg, x must be 0.0023.
+
+
+Problem 5
+a.
+
+polyV =
+
+     4  -124   880     0
+
+b.
+	See graph.
+
+c.
+	If the volume of the box is 1000 cubic inches, x may be 8.4374 or 1.4001.
+
+
+d.
+	The value of x that corresponds to the largest possible volume
+is 4.6 inches and the largest possible volume is 1813.7 inches cubed.
+
+
+Problem 6
+	The value of R is 0.5824.
+
+
+Problem 7
+
+f1plusf2 =
+
+     1    -7    11     5   -15     4
+
+
+f1minusf2 =
+
+     1    -7    11   -13     5    -8
+
+Problem 8
+a.
+
+x =
+
+    1.1667
+
+
+y =
+
+    9.9167
+
+
+w =
+
+     2
+
+b.
+
+x =
+
+   -1.1000
+
+
+y =
+
+   21.0500
+
+
+w =
+
+     1
+
+Problem 9
+a.
+
+poly_V =
+
+   -9.4248   94.2478         0         0
+
+b.
+	See graph.
+
+c.
+	If the volume of the cylinder is 800 cubic inches, the radius
+may be 8.9373 or 3.6586.
+
+d.
+	The radius that corresponds to the maximum volume is 6.6667
+and the maximum volume is 1396.2634.
+
+
+Problem 10
+
+V =
+
+    1.1984
+
+Problem 11
+a.
+	See graph.
+
+b.
+	See graph.
+
+c.
+	See graph.
+
+d.
+	See graph.
+
+
+Problem 12
+a.
+The population in 1975 was 610.0
+
+b.
+{Warning: Polynomial is badly conditioned. Add points with distinct X
+         values, reduce the degree of the polynomial, or try centering
+         and scaling as described in HELP POLYFIT.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a Student\toolbox\matlab\polyfun\polyfit.m',80,1)">polyfit at 80</a>
+  In <a href="matlab: opentoline('C:\Users\Noah\Documents\MATLAB\Independent Study\Gilat Chapter 8 Problems\GilatChapter8.m',303,1)">GilatChapter8 at 303</a>
+	The population in 1975 was 612.1
+
+c.
+	The population estimates in 1975 according to the linear and 
+spline fits were 614.0000 and 611.8071 million, respectively.
+
+
+Problem 13
+a.
+	The plot of log(D) vs. h gave the best fit.
+
+b.
+	See graph.
+
+
+Problem 14
+
+b =
+
+    1.3104
+
+
+m =
+
+    0.7210
+
+Problem 15
+	The product CdA or the air resistance is 0.0495.
+
+
+Problem 16
+
+m =
+
+    2.1666
+
+
+b =
+
+   -1.5928
+
+Problem 17
+a.
+
+k =
+
+   12.2603
+
+
+sigma_0 =
+
+   28.2938
+
+	The yield strength of a material with a grain size of 0.05 mm is 83 MPa.
+
+b.
+	The yield strength of a material with a grain size of 0.05 mm is 85 MPa.
+
+c.
+	The yield strength of a material with a grain size of 0.05 mm is 85 MPa.
+
+
+Problem 18
+
+R =
+
+    0.0822
+
+Problem 19
+
+C =
+
+    0.1568
+
+
+S =
+
+  147.9428
+
+diary off

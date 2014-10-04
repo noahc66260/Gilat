@@ -1,0 +1,337 @@
+GilatChapter1
+Problem 1
+a.
+	4.6164
+b.
+	2636.4675
+
+
+Problem 2
+a.
+	738.7546
+b.
+	-0.0732
+
+
+Problem 3
+a.
+	1.4883
+b.
+	1914.2669
+
+
+Problem 4
+a.
+	0.2846
+b.
+	0.1704
+
+
+Problem 5
+a.
+	2322.2425
+b.
+	9.7942
+c.
+	5.8400
+
+
+Problem 6
+a.
+	434.1261
+b.
+	-104.1014
+
+
+Problem 7
+a.
+	82.2946
+b.
+	-1.1995
+
+
+Problem 8
+a.
+	21.7080 cm
+b.
+	24.1799 cm
+
+
+Problem 9
+a.
+	265.9615 in^2
+b.
+	265.9615 in^2
+
+
+Problem 10
+a.
+	The sides are not equal
+b.
+	Both sides are equal
+
+
+Problem 11
+a.
+	Both sides are equal
+b.
+	Both sides are equal
+
+
+Problem 12
+	Both sides are equal
+
+
+Problem 13
+	1.1210
+
+
+Problem 14
+a.
+	126.8699
+b.
+	alpha = 16.2602 
+ 	beta = 36.8699
+c.
+	The angles add to 180 degrees
+
+
+Problem 15
+a.
+	c = 38.0789 cm
+b.
+	alpha = 23.1986 degrees
+
+
+Problem 16
+	d = 3.2967
+
+
+Problem 17
+	The number of cartons needed is 36
+
+
+Problem 18
+a.
+	The cost of 3 CD's and 5 books is $266.60
+b.
+	With the 5.75% sales tax, the price is $281.93
+c.
+	To the nearest dollar, the price is $282
+
+
+Problem 19
+	The number of teams that can be selected is 792
+
+
+Problem 20
+a.
+	3.5033
+b.
+	3.5769
+
+
+Problem 21
+	k = -0.2126 days^-1.
+	After seven days, there will be 22.5847 milligrams of Gallium-67 left.
+	Rounded to the nearest tenth of a milligram there are 22.6000 milligrams.
+
+
+Problem 22
+a.
+	The least common mulutiple of 4 and 14 is 28
+b.
+	The least common mulutiple of 8 and 42 is 168
+
+
+Problem 23
+	The difference in energy between earthquakes of magnitude 7.1
+and 6.9 is 1.995 times as many Joules
+
+
+Problem 24
+	It would take 33 years and 214 days
+
+
+Problem 25
+	At 315 and 405 Kelvin, the vapor pressures of toluene are 
+64 and 1339 mmHg, respectively.
+
+
+Problem 26
+	The sound pressure of a truck is 0.632456 Pa which is 17.7828 times
+larger than that of a conversation.
+
+
+diary off
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+GilatChapter1
+Problem 1
+a.
+	4.6164
+b.
+	2636.4675
+
+
+Problem 2
+a.
+	738.7546
+b.
+	-0.0732
+
+
+Problem 3
+a.
+	1.4883
+b.
+	1914.2669
+
+
+Problem 4
+a.
+	0.2846
+b.
+	0.1704
+
+
+Problem 5
+a.
+	2322.2425
+b.
+	9.7942
+c.
+	5.8400
+
+
+Problem 6
+a.
+	434.1261
+b.
+	-104.1014
+
+
+Problem 7
+a.
+	82.2946
+b.
+	-1.1995
+
+
+Problem 8
+a.
+	21.7080 cm
+b.
+	24.1799 cm
+
+
+Problem 9
+a.
+	265.9615 in^2
+b.
+	265.9615 in^2
+
+
+Problem 10
+a.
+	The sides are not equal
+b.
+	Both sides are equal
+
+
+Problem 11
+a.
+	Both sides are equal
+b.
+	Both sides are equal
+
+
+Problem 12
+	Both sides are equal
+
+
+Problem 13
+	1.1210
+
+
+Problem 14
+a.
+	126.8699
+b.
+	alpha = 16.2602 
+ 	beta = 36.8699
+c.
+	The angles add to 180 degrees
+
+
+Problem 15
+a.
+	c = 38.0789 cm
+b.
+	alpha = 23.1986 degrees
+
+
+Problem 16
+	d = 3.2967
+
+
+Problem 17
+	The number of cartons needed is 36
+
+
+Problem 18
+a.
+	The cost of 3 CD's and 5 books is $266.60
+b.
+	With the 5.75% sales tax, the price is $281.93
+c.
+	To the nearest dollar, the price is $282
+
+
+Problem 19
+	The number of teams that can be selected is 792
+
+
+Problem 20
+a.
+	3.5033
+b.
+	3.5769
+
+
+Problem 21
+	k = -0.2126 days^-1.
+	After seven days, there will be 22.5847 milligrams of Gallium-67 left.
+	Rounded to the nearest tenth of a milligram there are 22.6000 milligrams.
+
+
+Problem 22
+a.
+	The least common mulutiple of 4 and 14 is 28
+b.
+	The least common mulutiple of 8 and 42 is 168
+
+
+Problem 23
+	The difference in energy between earthquakes of magnitude 7.1
+and 6.9 is 1.995 times as many Joules
+
+
+Problem 24
+	It would take 33 years and 214 days
+
+
+Problem 25
+	At 315 and 405 Kelvin, the vapor pressures of toluene are 
+64 and 1339 mmHg, respectively.
+
+
+Problem 26
+	The sound pressure of a truck is 0.632456 Pa which is 17.7828 times
+larger than that of a conversation.
+
+
+diary off

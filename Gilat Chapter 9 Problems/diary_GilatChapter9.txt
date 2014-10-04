@@ -1,0 +1,8 @@
+GilatChapter9
+Problem 10
+b.
+	I estimate that the natural frequency of the circuit is 83.5563 s^(-1)
+	Compare this to the calculated value of 83.8820 s^(-1)
+
+
+diary off

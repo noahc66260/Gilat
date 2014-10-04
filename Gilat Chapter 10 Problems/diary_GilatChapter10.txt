@@ -1,0 +1,103 @@
+GilatChapter10
+Problem 1
+	The solution is 0.4418.
+
+
+Problem 2
+	The positive roots are at x = 1.3923, x = 2.0714, and x = 3.1895.
+
+
+Problem 3
+	The positive roots occur at the following points:
+	x = 1.7047
+	x = 2.4723
+	x = 3.8722
+	x = 4.4720
+	x = 6.1225
+	x = 6.4119
+
+
+Problem 4
+	The pulling force is equal to 90 N at x = 9.0644 meters.
+
+
+Problem 5
+	A 200 N object will hang a distance x = 0.0730 meters when attached
+to the scale.
+
+
+Problem 6
+	v_d = 0.5405 Volts
+
+
+Problem 7
+	The maximum of our function occurs at x = 1.5499.
+	The value of the maximum of the function is -2.3566.
+
+
+Problem 8
+	For the minimum surface area, R1 = 3.7711 cm and h = 4.0391 cm.
+
+
+Problem 9
+	The force is smallest at x = 18.1818 meters. The force is 85.0972 N.
+
+
+Problem 10
+
+Vmax =
+
+  6.0976e+003
+
+	Here are the dimensions of the largest cone we can fit inside the sphere:
+	radius = 16.0277 cm
+	height = 22.6667 cm
+	volume = 6097.6374 cm^3 
+
+
+Problem 11
+	The maximum R is 8.7e+010 which occurs at lambda = 2.415e-006
+
+
+Problem 12
+
+ans =
+
+    3.5933
+
+
+Problem 13
+	The length of the main supporting cable should be 124.8275 m.
+
+
+Problem 14
+	The electric field is 6.099e+006 N/C
+
+
+Problem 15
+	The change in the potential energy of the satellite is 3.486e+009 J
+
+
+Problem 16
+	The calculated area is 61275 square miles. This is close to the 
+actual area of 57918 square miles.
+
+
+Problem 17
+	For t = 10 seconds, G = 5.8387
+
+
+Problem 18
+	The perimeter of Pluto is 3.653e+010 km.
+	Pluto has an average speed of 1.682e+004 km/hr
+
+
+Problem 21
+	The time that y = .1 is approximately 456.1730 seconds
+
+
+Problem 23
+	The maximum weight is 15.5843 pounds.
+
+
+diary off

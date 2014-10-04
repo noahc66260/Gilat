@@ -1,0 +1,143 @@
+GilatChapter6
+Problem 1
+a.
+	The fuel efficiency of a car that travels 23 miles per gallon is 
+9.7783 kilometers per liter.
+b.
+	The fuel efficiency of a car that travels 50 miles per gallon is 
+21.2572 kilometers per liter.
+
+
+Problem 2
+a.
+	The person is 180.3400 cm tall and weighs 82.1002 kg.
+
+
+Problem 3
+a.
+	For x = -2, y =  -32.4118
+	For x =  4, y = -105.5583
+
+
+Problem 4
+	70 km/h is 63.7941 feet/s.
+
+
+Problem 5
+a.
+	For theta = pi/4, r = 0.5000
+	For theta = 5*pi/4, r = 0.5000
+
+
+Problem 6
+a.
+	The minimum of the function  2*x^2 +  9*x - 20 is at x = -2.2500.
+	At the minimum, the value of the function is -30.1250.
+b.
+	The maximum of the function -3*x^2 + 15*x + 50 is at x =  2.5000.
+	At the maximum, the value of the function is 68.7500.
+
+
+Problem 7
+	The monthly payment of a 15 year mortgage of $260,000 with
+annual interest rate of 6.75 percent is $2300.76.
+
+
+Problem 8
+	The weight of the ring is 0.0188 lbs.
+
+
+Problem 9
+a.
+	For a triangle of side lengths 10, 15, and 7, the area is 29.3939
+b.
+	For a triangle of side lengths 6, 8, and 10, the area is 24.0000
+c.
+	For a triangle of side lengths 200, 75, and 250, the area is 6200.9796
+
+
+Problem 10
+a.
+	The unit vector in the direction of the line that connects the 
+points (1.5, 2.1, 4) and (11, 15, 9) is (0.5661, 0.7686, 0.2979).
+b.
+	The unit vector in the direction of the line that connects the 
+points (-11, 3, -2) and (-13, -4, -5) is (-0.2540, -0.8890, -0.3810).
+c.
+	The unit vector in the direction of the line that connects the 
+points (1, 0, 1) and (0, 1, 1) is (-0.7071, 0.7071, 0.0000).
+
+
+Problem 11
+a.
+	r = 16.8451
+	theta = 35.0215 degrees
+b.
+	r = 19.7048
+	theta = -67.4337 degrees
+
+
+Problem 12
+a.
+	A random number between 1 and 49: 47
+b.
+	A random number between -35 and -2: -3
+
+
+Problem 13
+a.
+	The determinant of A is -39.0000
+b.
+	The determinant of B is -36.3000
+
+
+Problem 14
+a.
+	The student's grade is 82.2833
+b.
+	Student A's grade is 83.3667
+	Student B's grade is 61.2667
+	Student C's grade is 71.3500
+	Student D's grade is 82.5333
+
+
+Problem 15
+	The equivalent resistance is 0.0659 ohms
+
+
+Problem 16
+	The y coordinate of the centroid is 30.5000 mm
+
+
+Problem 17
+a.
+	The minimum principle stress is -222.8902 MPa
+	The maximum principle stress is +177.8902 MPa
+b.
+	The minimum principle stress is -17.0605 ksi
+	The maximum principle stress is +16.0605 ksi
+
+
+Problem 18
+	The moment of inertia of the beam is 7.397e+007 mm^4
+
+
+Problem 19
+	Please enter the size of the resistor in ohms: 1200
+	Please enter the size of the capacitor in microFarads: 8
+
+
+Problem 20
+	Please enter the resistance for the resistor in ohms: 1100
+	Please enter the inductance for the coil in Henrys: 7*10^(-3)
+	Please enter the capacitance for the capacitor in Farads: 9*10^(-6)
+
+
+Problem 21
+a.
+	The dew point temperature is 1.5075 degrees Celsius.
+b.
+	The dew point temperature is 31.0167 degrees Celsius.
+
+
+diary off
